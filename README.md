@@ -1,10 +1,4 @@
----
-title: README
-dateCreated: 26Jul24T12:30:55
-dateModified: 26Jul24T12:57:55
----
-
-This is a quick sample of how I put together my index pages... this isn't a superb example.
+This is a quick sample of how I put together my index pages... this isn't a superb example.  To use this just copy the TEMP file into your obsidian vault.
 
 The first example [[DrugsIndex]] is using dataview for a Drugs Index page.  I have a folder with all of the drugs I either need to remember, want to remember, and/or are going into a book I'm writing.  The data is pretty straight forward and uses tags in the body to be able to show in a dataview table.
 
