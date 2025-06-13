@@ -1,0 +1,1 @@
+[startTime::<% tp.date.now("HH:mm") %>]

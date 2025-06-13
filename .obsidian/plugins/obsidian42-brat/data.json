@@ -1,0 +1,27 @@
+{
+  "pluginList": [
+    "blacksmithgu/datacore",
+    "unxok/dataedit",
+    "KjellConnelly/obsidian-dev-tools"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "KjellConnelly/obsidian-dev-tools",
+      "version": ""
+    },
+    {
+      "repo": "unxok/dataedit",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

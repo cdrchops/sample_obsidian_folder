@@ -1,0 +1,3 @@
+{
+  "code": "DOMPurify.setConfig({\n   ALLOW_UNKNOWN_PROTOCOLS: !0,\n   RETURN_DOM_FRAGMENT: !0,\n   FORBID_TAGS: [\"style\"],\n   ADD_TAGS: [\"iframe\",\"tag-list\"],\n   ADD_ATTR: [\"frameborder\", \"allowfullscreen\", \"allow\", \"aria-label-position\", \"tag\"]\n});\nvar s= document.createElement('script');\ns.setAttribute('src','https://kit.fontawesome.com/73e35752f5.js');\ns.setAttribute(\"type\",\"module\");\ndocument.head.appendChild(s);"
+}
